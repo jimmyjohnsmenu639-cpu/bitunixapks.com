@@ -180,6 +180,9 @@ table.cmp td{color:var(--muted)}
 .feat-prose{max-width:860px;margin:36px auto 0;color:var(--muted);line-height:1.8}
 .feat-prose h3{font-family:var(--disp);color:var(--text);font-size:1.3rem;margin-bottom:14px}
 .feat-prose p{margin-bottom:14px}
+.img-block{margin:38px auto 0;max-width:980px}
+.img-block img{width:100%;height:auto;display:block;border-radius:var(--radius);border:1px solid var(--line)}
+.img-block figcaption{text-align:center;color:var(--muted);font-size:.88rem;margin-top:12px}
 .feat{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:30px 26px;transition:transform .25s,border-color .25s}
 .feat:hover{transform:translateY(-5px);border-color:rgba(0,179,255,.35)}
 .f-ico{font-size:1.9rem;margin-bottom:14px}
